@@ -1,4 +1,4 @@
-# Shootings
+# Toronto Shootings Analysis
 
 ## 📌 Overview
 
